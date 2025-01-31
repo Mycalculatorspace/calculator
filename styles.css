@@ -53,7 +53,7 @@ main a:hover{
 .calc{
     width: fit-content;
     height: fit-content;
-    margin: 1em;
+    margin: 0.5em;
     text-align: center;
     display: inline-block;
 }
